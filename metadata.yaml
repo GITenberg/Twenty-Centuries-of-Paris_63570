@@ -1,6 +1,9 @@
 _repo: Twenty-Centuries-of-Paris_63570
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 20 Centuries of Paris
+covers:
+- cover_type: archival
+  image_path: 63570-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Mabell S. C. (Mabell Shippie Clarke)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '6118'
     url: http://www.gutenberg.org/2009/agents/6118
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63570#Twenty-Centuries-of-Paris
 gutenberg_issued: '2020-10-28'
 gutenberg_type: Text
 identifiers:
