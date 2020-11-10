@@ -1,0 +1,29 @@
+_repo: Twenty-Centuries-of-Paris_63570
+_version: 0.0.1
+alternative_title: 20 Centuries of Paris
+creator:
+  author:
+    agent_name: Smith, Mabell S. C. (Mabell Shippie Clarke)
+    aliases:
+    - Smith, Mabell Shippie Clarke
+    - Pelton, Mabell Shippie Clarke
+    birthdate: 1864
+    deathdate: 1942
+    gutenberg_agent_id: '6118'
+    url: http://www.gutenberg.org/2009/agents/6118
+description: ''
+gutenberg_issued: '2020-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63570'
+  lccn: '13021733'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- History'
+- !lcc 'DC'
+- GITenberg
+title: Twenty Centuries of Paris
+url: http://www.gutenberg.org/ebooks/63570
